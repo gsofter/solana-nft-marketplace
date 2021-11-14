@@ -1,0 +1,2 @@
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=d:\Solana\metaplex-master\metaplex-master\rust\metaplex\program\target\rls\debug\build\typenum-cb3430947d6b01c6\out\consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=d:\Solana\metaplex-master\metaplex-master\rust\metaplex\program\target\rls\debug\build\typenum-cb3430947d6b01c6\out\op.rs
